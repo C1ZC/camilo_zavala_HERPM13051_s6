@@ -35,3 +35,26 @@ Este proyecto está licenciado bajo la Licencia MIT.
 
 ### Autor
 Camilo Zavala
+
+____________________________________________________________________________________________________
+# Desarrollo de la Actividad
+
+Imagina que has sido contratado como desarrollador de aplicaciones móviles para la Municipalidad de Pelotillehue, la cual requiere generar una aplicación móvil en Android para registrar las infracciones cursadas a locales comerciales. Los requerimientos para la aplicación son los siguientes:
+
+## Requerimientos del Proyecto
+
+- **Nombre del Proyecto:** El nombre del proyecto debe ser su nombre_apellido_seccioncurso.
+- **Lenguaje de Programación:** La aplicación debe ser desarrollada en lenguaje Kotlin (aplicativo en lenguaje Java no será considerado).
+- **Registro de Datos:** La aplicación debe registrar los siguientes datos de manera persistente en SQLlite:
+   - RUT del inspector
+   - Nombre del local comercial
+   - Dirección
+   - Infracción cometida
+- **Asignación de Folio:** Cuando la infracción sea registrada, deberá mostrar en pantalla el folio asignado a dicha infracción.
+- **Modificación de Datos:** Debe permitir la modificación de los datos de la infracción exceptuando el folio.
+- **Listado de Infracciones:** La aplicación debe listar las infracciones ingresadas.
+- **Compartir Datos:** La aplicación debe ser capaz de compartir los datos con otras aplicaciones.
+
+---
+
+Este proyecto tiene como objetivo facilitar el proceso de registro y gestión de infracciones en locales comerciales por parte de los inspectores de la Municipalidad de Pelotillehue, asegurando la persistencia y la accesibilidad de los datos registrados.
