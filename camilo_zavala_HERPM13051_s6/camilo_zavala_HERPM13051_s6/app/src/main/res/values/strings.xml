@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">camilo_zavala_HERPM13051_s6</string>
+    <string name="infracci_n">Infracción:</string>
+    <string name="direcci_n">Dirección:</string>
+    <string name="nombre_del_local">Nombre del Local:</string>
+    <string name="rut_del_inspector">RUT del Inspector:</string>
+    <string name="rut_del_inspector1">RUT del Inspector</string>
+    <string name="descripci_n_de_la_infracci_n">Descripción de la Infracción</string>
+    <string name="guardar">Guardar</string>
+    <string name="editar">Editar</string>
+    <string name="rut_del_inspector2">Rut del Inspector</string>
+    <string name="nombre_de_local2">Nombre de Local</string>
+    <string name="descripci_n2">Descripción</string>
+    <string name="descripci_n_de_infraccion2">Descripción de Infraccion</string>
+    <string name="actualizar2">Actualizar</string>
+    <string name="folio">Folio:</string>
+    <string name="volver">volver</string>
+    <string name="compartir">Compartir</string>
+    <string name="detalle_rut_inspector">RUT del Inspector: %1$s</string>
+    <string name="detalle_nombre_local">Nombre del Local: %1$s</string>
+    <string name="detalle_direccion">Dirección: %1$s</string>
+    <string name="detalle_infraccion">Infracción: %1$s</string>
+    <string name="detalle_folio">Folio: %1$d</string>
+    <string name="compartir_encabezado">Detalles de la Infracción:\n</string>
+    <string name="compartir_folio">Folio: %1$d\n</string>
+    <string name="compartir_rut_inspector">RUT del Inspector: %1$s\n</string>
+    <string name="compartir_nombre_local">Nombre del Local: %1$s\n</string>
+    <string name="compartir_direccion">Dirección: %1$s\n</string>
+    <string name="compartir_infraccion">Infracción: %1$s</string>
+    <string name="editar_folio">Folio: %1$d</string>
+
+</resources>
